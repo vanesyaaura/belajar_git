@@ -2,4 +2,4 @@ ini belajar git dan github
 
 nama: vanesya
 
-alamat: solo
+nim: L200210170
